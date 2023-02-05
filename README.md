@@ -1,5 +1,9 @@
+<!-- ![](https://github.com/SkiereszDiego/SkiereszDiego/blob/main/firstpixelart.gif) -->
+
+ <img src="https://github.com/SkiereszDiego/SkiereszDiego/blob/main/firstpixelart.gif"  height="290px" align="right" />
+ 
+
 👋 Hey
- ![](https://github.com/SkiereszDiego/SkiereszDiego/blob/main/firstpixelart.gif)
 - 👨‍👩‍👦 Father to a little dog and a crazy cat.
 - 🔭 I’m currently working on a translation Web App.
 - 🌱 I’m currently learning Angular
@@ -7,5 +11,3 @@
 - 💬 Ask me about Geology. I might know a few things.
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: Fighting Imposter Syndrome every day.
-
-

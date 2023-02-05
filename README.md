@@ -6,3 +6,5 @@
 - 💬 Ask me about Geology. I might know a few things.
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: Fighting Imposter Syndrome every day.
+![](https://github.com/SkiereszDiego/SkiereszDiego/blob/main/firstpixelart.gif)
+

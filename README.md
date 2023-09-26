@@ -5,8 +5,8 @@
 
 👋 Hey
 - 👨‍👩‍👦 Father to a little dog and a crazy cat.
-- 🔭 Working on a translation Web App and also on a Web App for inventory management in tattoo studios.
-- 🌱 Currently learning Angular
+- 🔭 I'm teaching the Caldeira Generation in the programming track. We're diving into exciting topics like Java, Git, and much more! 
+- 🌱 Currently, I'm diving into Azure's tools, such as AKS, Datalake Gen2, and some MLOps tools as well.
 - 👯 I’m looking to collaborate on softwares for Oil and Gas industry.                   
 - 💬 Ask me about Geology. I might know a few things.
 - 😄 Pronouns: (He/Him)

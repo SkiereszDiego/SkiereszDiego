@@ -1,16 +1,25 @@
 <!-- ![](https://github.com/SkiereszDiego/SkiereszDiego/blob/main/firstpixelart.gif) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  A Little Bit About Me and My Interests
+</h1>
 
  <img src="https://github.com/SkiereszDiego/SkiereszDiego/blob/main/firstpixelart.gif"  height="290px" align="right" />
  
 
-👋 Hey
 - 👨‍👩‍👦 Father to a little dog and a crazy cat.
-- 🔭 I'm teaching the Caldeira Generation in the programming track. We're diving into exciting topics like Java, Git, and much more! 
-- 🌱 Currently, I'm diving into Azure's tools, such as AKS, Datalake Gen2, and some MLOps tools as well.
-- 👯 I’m looking to collaborate on softwares for Oil and Gas industry.                   
+- 🔭 I'm a Full Stack Developer, also teaching in the TIC and trails in the programming track. We're diving into exciting topics like Java, Python For Data Analysts, and much more! 
+- 🌱 Fields of interests:
+   - Web Development
+   - Data Science
+   - Machine Learning
+   - Game Development            
 - 💬 Ask me about Geology. I might know a few things.
 - 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: Fighting Imposter Syndrome every day.
+- ⚡ Hobbies: Gaming, Cinema, Painting, Comedy.
 
 ## SOCIAL
 
@@ -18,6 +27,7 @@
 
 ## LANGUAGES
 
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
@@ -47,3 +57,7 @@
 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
